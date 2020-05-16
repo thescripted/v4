@@ -1,8 +1,7 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
-</div>
+## Personal Website
+
 <p align="center">
-  Using the fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>, to build my personal starter portfolio and blog. built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
+  Used with Permission and Attribution: Using the fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>, to build my personal starter portfolio and blog. built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 </p>
 
 
